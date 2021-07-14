@@ -1,0 +1,11 @@
+{
+  "name": "epam-course-angular-webpack-config",
+  "version": "1.0.0",
+  "description": "Webpack config with two entry points.",
+  "scripts": {
+    "dev": "webpack serve",
+    "build": "webpack"
+  },
+  "author": "Mariam Khurshudyan",
+  "license": "UNLICENSED"
+}
