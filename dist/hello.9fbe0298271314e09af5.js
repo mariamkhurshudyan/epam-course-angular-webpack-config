@@ -9,13 +9,13 @@
 /******/ (() => { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
 
-/***/ "./src/main.js":
-/*!*********************!*\
-  !*** ./src/main.js ***!
-  \*********************/
+/***/ "./src/hello.js":
+/*!**********************!*\
+  !*** ./src/hello.js ***!
+  \**********************/
 /***/ (() => {
 
-eval("document.getElementById(\"#world\").innerText = \"Wooooooorld\"\n\n//# sourceURL=webpack://epam-course-angular-webpack-config/./src/main.js?");
+eval("document.getElementById(\"#hello\").innerText = \"hellooooo\"\n\n//# sourceURL=webpack://webpack-demo/./src/hello.js?");
 
 /***/ })
 
@@ -26,7 +26,7 @@ eval("document.getElementById(\"#world\").innerText = \"Wooooooorld\"\n\n//# sou
 /******/ 	// Load entry module and return exports
 /******/ 	// This entry module can't be inlined because the eval devtool is used.
 /******/ 	var __webpack_exports__ = {};
-/******/ 	__webpack_modules__["./src/main.js"]();
+/******/ 	__webpack_modules__["./src/hello.js"]();
 /******/ 	
 /******/ })()
 ;

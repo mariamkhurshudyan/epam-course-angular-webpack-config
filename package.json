@@ -1,11 +1,20 @@
 {
-  "name": "epam-course-angular-webpack-config",
+  "name": "webpack-demo",
   "version": "1.0.0",
-  "description": "Webpack config with two entry points.",
+  "description": "",
+  "main" : "index.js",
   "scripts": {
-    "dev": "webpack serve",
+    "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack"
   },
-  "author": "Mariam Khurshudyan",
-  "license": "UNLICENSED"
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.4.0",
+    "webpack-cli": "^4.2.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
 }
